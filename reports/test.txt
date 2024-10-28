@@ -1,0 +1,12 @@
+An important update for readers in <span class="banner__country">the United States</span>.
+Please don't skip this 1-minute read. We're sorry to interrupt, but this message will only be up for a short time. We ask you to reflect on the number of times you visited Wikipedia this past year and whether you're able to give <span class="banner__amount1">$2.75</span> to the Wikimedia Foundation. If you can, please join the 2% of readers who give. If everyone reading this gave just <span class="banner__amount1">$2.75</span>, we'd hit our goal in a few hours.
+
+In the age of AI, access to verifiable facts is crucial. Wikipedia is at the heart of online information, powering everything from your personal searches to emerging AI technologies. Your gift strengthens the knowledge of today and tomorrow.
+
+If Wikipedia is one of the websites you use most and if the knowledge you gained here is valuable, please give <span class="banner__amount1">$2.75</span>. Every contribution helps: every edit, every gift counts.
+<strong>Hi. Please don't skip this 1-minute read.</strong> Today, our nonprofit asks for your support. It matters. When Wikipedia was created, it was one of the first spaces online where you could learn for free, without ads. This space is yours. Just 2% of our readers donate, so whatever gift you can afford helps.— <em>The Wikimedia Foundation, host of Wikipedia and its sister sites</em>.
+Save your favorite articles to read offline, sync your reading lists across devices and customize your reading experience with the official Wikipedia app.
+
+<small class="jsl10n" data-jsl10n="license">This page is available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a></small>
+<small class="jsl10n" data-jsl10n="terms"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a></small>
+<small class="jsl10n" data-jsl10n="privacy-policy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a></small>
