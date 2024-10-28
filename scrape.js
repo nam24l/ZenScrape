@@ -44,7 +44,7 @@ function scrapeFromTags(htmlBody, tag) {
 
     if (tag == 'a') {
         elements.forEach(tag => {
-            content.push(tag.href);
+            content.push(tag.href + '\n');
         });
         return content;
     }
